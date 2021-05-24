@@ -6,4 +6,4 @@ The future posts will focus on:
 
 - Web Scraping using Scrapy and Selenium
 - Deployment of ML-powered applications through a microservice arhitecture on AWS
-- Leveraging NLP Transformers Pipelines and publicly available datasources to create products that help people find inspiration. 
+- Leveraging NLP Transformer Pipelines and publicly available datasources to create products that help people find inspiration. 
